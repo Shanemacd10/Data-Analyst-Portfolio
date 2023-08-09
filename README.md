@@ -2,7 +2,7 @@
 
 ## Real Estate data scrape
 
-  ### Software Used
+### Software Used
   *Python
     _BeatifulSoup
     _pandas
@@ -15,5 +15,5 @@
     _Dashboards
     _interactive charts
     
-## Summary
+### Summary
 This project explores and visualized various price metrics for real esatae data in the province of Nova Scotia. Using BeautifulSoup in Python I scraped property data from [www.royallepage.ca](https://www.royallepage.ca/en/) writing it to an excel file.
